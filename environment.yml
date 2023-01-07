@@ -1,0 +1,8 @@
+name: genetics
+channels:
+  - conda-forge
+  - bioconda
+  - default
+dependencies:
+  - salmon
+  - fastqc
